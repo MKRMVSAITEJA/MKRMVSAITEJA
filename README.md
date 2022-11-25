@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MKRMVSAITEJA
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Mysql
-- 💞️ I’m looking to collaborate on Excel, Power BI, Mysql
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Excel, Power BI
 - 📫 How to reach me saiteja.mk4151@gmail.com
 
 <!---
